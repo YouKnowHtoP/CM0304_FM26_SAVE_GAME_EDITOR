@@ -1,12 +1,14 @@
 ##
 ##     Championship Manager: Season 03/04 
-### Fans Mode 2026 - Real Time / Save Game Editor [Version: 1.0.1]
+### Fans Mode 2026 - Real Time / Save Game Editor [Version: 1.0.2]
 ### www.youtube.com/@YouKnowHtoP
 ###
 <details> <summary><b>🌍 Read Me (Click Here!)</b></summary>
 
 ### ⚽ Fans Mode 2026 - Real Time Editor - Save Game Editor - Version: 1.0.0
 ###
+### ✨ Release Notes (v1.0.2)
+* 🚑 Injuries: Fixed the "heal injuries" system for players on national team duty.
 ### ✨ Release Notes (v1.0.1)
 * 🌍 Nationality System: Fixed an issue where dual-nationality players' second nationality couldn't be changed; it is now editable.
 * 🔢 Localization: Resolved the regional thousands separator formatting issue.
@@ -31,6 +33,8 @@ www.youtube.com/@YouKnowHtoP
   
 ### ⚽ Hayranlar Modu 2026 - Gerçek Zamanlı Editör - Kayıtlı Oyun Editörü - Sürüm: 1.0.0
 ###
+### ✨ Sürüm Notları (v1.0.2)
+* 🚑 Sakatlıklar: Milli takımlarda yaşanan sakatlıkları iyileştirme sistemi düzeltildi.
 ### ✨ Sürüm Notları (v1.0.1)
 * 🌍 Uyruk Sistemi: İkinci uyruğu bulunan futbolcuların, ikinci uyruklarının değiştirilememesi sorunu giderildi; artık güncellenebilir.
 * 🔢 Bölgesel Format: Sayılardaki bölgesel binlik ayıracı hatası tamamen çözüldü.
