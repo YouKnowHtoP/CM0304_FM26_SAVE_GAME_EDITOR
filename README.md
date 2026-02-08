@@ -7,6 +7,10 @@
 
 ### ⚽ Fans Mode 2026 - Real Time Editor - Save Game Editor - Version: 1.0.0
 ###
+### ✨ Release Notes (v1.0.3)
+* 📄 Contract Editing: Enabled updating expiration dates for players with expired contracts who are still at the club.
+* 👁️ Display Issue: Resolved the viewing error for contracts with a duration longer than 5 years.
+* 🌍 Second Nationality: Resolved issues regarding assigning a second nationality for certain single-nationality players.
 ### ✨ Release Notes (v1.0.2)
 * 🚑 Injuries: Fixed the "heal injuries" system for players on national team duty.
 ### ✨ Release Notes (v1.0.1)
@@ -33,6 +37,10 @@ www.youtube.com/@YouKnowHtoP
   
 ### ⚽ Hayranlar Modu 2026 - Gerçek Zamanlı Editör - Kayıtlı Oyun Editörü - Sürüm: 1.0.0
 ###
+### ✨ Sürüm Notları (v1.0.3)
+* 📄 Sözleşme Düzenleme: Sözleşmesi biten ancak kulüpte kalan oyuncuların bitiş tarihlerini güncelleyebilme özelliği eklendi.
+* 👁️ Sözleşme Görünümü: 5 yıldan uzun süreli sözleşmelerde yaşanan görüntüleme sorunu giderildi.
+* 🌍 İkinci Uyruk: Tek uyruklu bazı oyuncularda karşılaşılan ikinci uyruk atama sorunu giderildi.
 ### ✨ Sürüm Notları (v1.0.2)
 * 🚑 Sakatlıklar: Milli takımlarda yaşanan sakatlıkları iyileştirme sistemi düzeltildi.
 ### ✨ Sürüm Notları (v1.0.1)
