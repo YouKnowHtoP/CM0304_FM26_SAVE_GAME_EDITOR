@@ -1,11 +1,11 @@
 ##
 ##     Championship Manager: Season 03/04 
-### Fans Mode 2026 - Real Time / Save Game Editor [Version: 1.0.2]
+### Fans Mode 2026 - Real Time / Save Game Editor [Version: 1.0.4]
 ### www.youtube.com/@YouKnowHtoP
 ###
 <details> <summary><b>🌍 Read Me (Click Here!)</b></summary>
 
-### ⚽ Fans Mode 2026 - Real Time Editor - Save Game Editor - Version: 1.0.0
+### ⚽ Fans Mode 2026 - Real Time Editor - Save Game Editor - Version: 1.0.4
 ###
 ### ✨ Release Notes (v1.0.4)
 * 💾 Save Games: Resolved read errors occurring with multiplayer save game files.
@@ -37,7 +37,7 @@ www.youtube.com/@YouKnowHtoP
 </details>
 <details> <summary><b>🌍 Beni Oku (Buraya Tıkla!)</b></summary>
   
-### ⚽ Hayranlar Modu 2026 - Gerçek Zamanlı Editör - Kayıtlı Oyun Editörü - Sürüm: 1.0.0
+### ⚽ Hayranlar Modu 2026 - Gerçek Zamanlı Editör - Kayıtlı Oyun Editörü - Sürüm: 1.0.4
 ###
 ### ✨ Sürüm Notları (v1.0.4)
 * 💾 Kayıtlı Oyun: Çok oyunculu (multiplayer) kayıtlı oyun dosyalarında karşılaşılan okuma hataları düzeltildi.
