@@ -1,12 +1,18 @@
 ##
 ##     Championship Manager: Season 03/04 
-### Fans Mode 2026 - Real Time / Save Game Editor [Version: 1.0.4]
+### Fans Mode 2026 - Real Time / Save Game Editor [Version: 2.0.0]
 ### www.youtube.com/@YouKnowHtoP
 ###
 <details> <summary><b>🌍 Read Me (Click Here!)</b></summary>
 
-### ⚽ Fans Mode 2026 - Real Time Editor - Save Game Editor - Version: 1.0.4
+### ⚽ Fans Mode 2026 - Real Time Editor - Save Game Editor - Version: 2.0.0
 ###
+### ✨ Release Notes (v2.0.0)
+* 📺 https://youtu.be/iewgPoFxPbQ?si=2QFILxkyMxNY05-N
+* 👔 Manager: Change your Managing Club / National Team instantly or manage any national team.
+* 🌍 National Team: Added Kits Color modify, change squad with loading shortlist file (.slf), and heal injuries / lift bans for selected or all national teams.
+* 🏟️ Club: Change the Nation of the club, modify contract expiry dates, and drop squad wages. Move the entire squad to another club or transfer players by loading a shortlist file (.slf).
+* 👤 Player & Squad: Set the Team's Current Ability (CA) and Potential Ability (PA) values ​​to a value you define instantly, modify player date of birth and nationality, reset squad numbers and heal injuries / lift bans for selected club with one click. 
 ### ✨ Release Notes (v1.0.4)
 * 💾 Save Games: Resolved read errors occurring with multiplayer save game files.
 ### ✨ Release Notes (v1.0.3)
@@ -37,8 +43,14 @@ www.youtube.com/@YouKnowHtoP
 </details>
 <details> <summary><b>🌍 Beni Oku (Buraya Tıkla!)</b></summary>
   
-### ⚽ Hayranlar Modu 2026 - Gerçek Zamanlı Editör - Kayıtlı Oyun Editörü - Sürüm: 1.0.4
+### ⚽ Hayranlar Modu 2026 - Gerçek Zamanlı Editör - Kayıtlı Oyun Editörü - Sürüm: 2.0.0
 ###
+### ✨ Sürüm Notları (v2.0.0)
+* 📺 https://youtu.be/iewgPoFxPbQ?si=2QFILxkyMxNY05-N
+* 👔 Menajer: Yönettiğiniz Kulübü/Milli Takımı anında değiştirin veya herhangi bir milli takımı yönetin.
+* 🌍 Milli Takım: Forma renklerini değiştirin, kısa liste dosyasını (.slf) yükleyerek kadroyu değiştirin ve seçilen veya tüm milli takımlar için sakatlıkları iyileştirin/cezaları kaldırın.
+* 🏟️ Kulüp: Kulübün ülkesini değiştirin, sözleşme bitiş tarihlerini değiştirin ve kadro maaşlarını düşürün. Kısa liste dosyasını (.slf) yükleyerek tüm kadroyu başka bir kulübe taşıyın veya oyuncuları transfer edin.
+* 👤 Oyuncu ve Kadro: Takımın Mevcut Yetenek (CA) ve Potansiyel Yetenek (PA) değerlerini anında belirlediğiniz bir değere ayarlayın, oyuncunun doğum tarihini ve uyruğunu değiştirin, kadro numaralarını sıfırlayın ve seçilen kulüp için sakatlıkları iyileştirin/cezaları tek tıklamayla kaldırın.
 ### ✨ Sürüm Notları (v1.0.4)
 * 💾 Kayıtlı Oyun: Çok oyunculu (multiplayer) kayıtlı oyun dosyalarında karşılaşılan okuma hataları düzeltildi.
 ### ✨ Sürüm Notları (v1.0.3)
