@@ -1,12 +1,14 @@
 ##
 ##     Championship Manager: Season 03/04 
-### Fans Mode 2026 - Real Time / Save Game Editor [Version: 2.0.0]
+### Fans Mode 2026 - Real Time / Save Game Editor [Version: 2.0.1]
 ### www.youtube.com/@YouKnowHtoP
 ###
 <details> <summary><b>🌍 Read Me (Click Here!)</b></summary>
 
-### ⚽ Fans Mode 2026 - Real Time Editor - Save Game Editor - Version: 2.0.0
+### ⚽ Fans Mode 2026 - Real Time Editor - Save Game Editor - Version: 2.0.1
 ###
+### ✨ Release Notes (v2.0.1)
+* 🐛 Bug Fix
 ### ✨ Release Notes (v2.0.0)
 * 📺 https://youtu.be/iewgPoFxPbQ?si=2QFILxkyMxNY05-N
 * 👔 Manager: Change your Managing Club / National Team instantly or manage any national team.
@@ -43,8 +45,10 @@ www.youtube.com/@YouKnowHtoP
 </details>
 <details> <summary><b>🌍 Beni Oku (Buraya Tıkla!)</b></summary>
   
-### ⚽ Hayranlar Modu 2026 - Gerçek Zamanlı Editör - Kayıtlı Oyun Editörü - Sürüm: 2.0.0
+### ⚽ Hayranlar Modu 2026 - Gerçek Zamanlı Editör - Kayıtlı Oyun Editörü - Sürüm: 2.0.1
 ###
+### ✨ Sürüm Notları (v2.0.1)
+* 🐛 Hata Düzeltmesi
 ### ✨ Sürüm Notları (v2.0.0)
 * 📺 https://youtu.be/iewgPoFxPbQ?si=2QFILxkyMxNY05-N
 * 👔 Menajer: Yönettiğiniz Kulübü/Milli Takımı anında değiştirin veya herhangi bir milli takımı yönetin.
